@@ -1,0 +1,23 @@
+.pincodeField {
+  margin: 50px;
+}
+
+.body {
+  margin: 0px 50px 50px;
+}
+
+.inputField {
+  margin: 50px;
+}
+
+.inputText {
+  margin: 10px;
+}
+
+.results {
+  margin: 50px;
+  border: solid black;
+  background-color: cornsilk;
+  border-radius: 5px;
+  padding: 10px;
+}
