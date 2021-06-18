@@ -6,7 +6,7 @@ function myFunction(){
     var x=document.getElementById("ipField").value;
     // alert(x);
 
-    var str='http://api.openweathermap.org/data/2.5/weather?q='+ x +'&appid=1c1ecdf3638df6f5bf4ba1260e8234fa&units=metric#';
+    var str='https://api.openweathermap.org/data/2.5/weather?q='+ x +'&appid=1c1ecdf3638df6f5bf4ba1260e8234fa&units=metric#';
 
     
 
